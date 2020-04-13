@@ -1,0 +1,4 @@
+backtrader[plotting]
+requests
+yfinance
+pandas_datareader
